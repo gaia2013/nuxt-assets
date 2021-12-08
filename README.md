@@ -1,4 +1,5 @@
 # nuxt-assets
+<img width="758" alt="スクリーンショット 2021-12-08 11 27 05" src="https://user-images.githubusercontent.com/3797539/145138059-2d9c11ed-4130-41dc-af83-eb671b241fc4.png">
 
 ## Build Setup
 
